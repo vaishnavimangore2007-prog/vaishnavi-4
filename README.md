@@ -9,13 +9,18 @@ b=input("enter second string")
 c=a+b
 print(c)
 
+
+a="vaishnavi "
+b="mangore "
+c=a+b
+print (c)
      
 ---OUTPUT---
+
 lengh of string:20
 20
-
 enter first string:6
 enter second string7
 67
-
+vaishnavi mangore 
 
